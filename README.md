@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="42" alt="jupyter logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" width="42" alt="LaTeX"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" width="42" alt="LaTeX" />
 </div>
 
 ###
@@ -30,7 +30,7 @@
 
 ###
 
-<img align="right" height="178" src="https://media.giphy.com/media/ZB8UYjVQ4l5tiibWU8/giphy.gif"  />
+<img align="right" height="193" src="https://media.giphy.com/media/ZB8UYjVQ4l5tiibWU8/giphy.gif"  />
 
 ###
 
