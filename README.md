@@ -16,7 +16,7 @@
 ###
 
 <div align="left">
-  <a href="luizmandradegomes@gmail.com" target="_blank">
+  <a href="mailto:luizmandradegomes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/luiz-m%C3%A1rio-andrade-b277b5144/" target="_blank">
