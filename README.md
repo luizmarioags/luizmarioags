@@ -30,6 +30,10 @@
   <a href="https://linktr.ee/luizmario_ags" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
+  </a>
+  <a href="https://luizmarioags.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="linktree logo"  />
+  </a>
 </div>
 
 ###
