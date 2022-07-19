@@ -6,6 +6,8 @@
 
 ###
 
+# Ferramentas e Tecnologias:
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="30" width="42" alt="jupyter logo"  />
@@ -16,6 +18,7 @@
 </div>
 
 ###
+# Redes Sociais
 
 <div align="left">
   <a href="mailto:luizmandradegomes@gmail.com" target="_blank">
@@ -40,6 +43,8 @@
 ###
 
 <br clear="both">
+
+# Estatísticas
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=luizmarioags" height="150" alt="stats graph"  />
