@@ -14,7 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="42" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" width="42" alt="r logo"  />
   <img alt="Excel" height="30" width="42" src="https://github.com/luizmarioags/luizmarioags/blob/main/Imagem-Logo-Excel-PNG.png" />
-  <img alt="LaTeX - Overleaf" height="30" width="60" src="https://github.com/luizmarioags/luizmarioags/blob/main/images.png" />
+  <img alt="LaTeX - Overleaf" height="30" width="110" src="https://github.com/luizmarioags/luizmarioags/blob/main/images.png" />
+  <img alt="PowerBi" height="30" width="110" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 </div>
 
 ###
