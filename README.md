@@ -39,7 +39,7 @@
   </a>
   </a>
   <a href="https://luizmarioags.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="linktree logo"  />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="Medium logo"  />
   </a>
 </div>
 
