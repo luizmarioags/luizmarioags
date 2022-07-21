@@ -72,13 +72,11 @@
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <img src="https://github.com/luizmarioags/luizmarioags/blob/main/32f2cfc1c99e10aa38e734ea8d95dfede751f20468f6b85dedccdde82b75e0d4.png", height = 29
+  <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white"/>
+  <img src="https://github.com/luizmarioags/luizmarioags/blob/main/32f2cfc1c99e10aa38e734ea8d95dfede751f20468f6b85dedccdde82b75e0d4.png", height = 29/>
   </a>
   <img src="https://github.com/luizmarioags/luizmarioags/blob/main/HBO-Max-Simbolo.png" height = 29
-  </a>
 </div>
 
 # Estatísticas
