@@ -51,6 +51,10 @@
   <a href="https://luizmarioags.medium.com/" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
+    </a>
+  <a href="https://twitter.com/luiz_marioags" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </div>
 
 ###
