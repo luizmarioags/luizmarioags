@@ -35,10 +35,10 @@
 # Redes Sociais
 
 <div align="left">
-  <a href="mailto:luizmandradegomes@gmail.com" target="_blank">
+  <a href="mailto:luizmario_andrade@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="mailto:luizmario_andrade@outlook.com" target="_blank">
+  <a href="mailto:luizmandradegomes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/luiz-m%C3%A1rio-andrade-b277b5144/" target="_blank">
