@@ -80,9 +80,8 @@
   <img src="https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white"/>
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white"/>
-  <img src="https://github.com/luizmarioags/luizmarioags/blob/main/32f2cfc1c99e10aa38e734ea8d95dfede751f20468f6b85dedccdde82b75e0d4.png", height = 29/>
-  </a>
   <img src="https://img.shields.io/badge/HBO-4F0599?style=for-the-badge&logo=HBO&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MUBI&color=005AF0&logo=MUBI&logoColor=FFFFFF&label="/>
 </div>
 
 # Estatísticas
