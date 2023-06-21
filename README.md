@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Programador iniciante em Python, e futuramente em R, com foco em análise de dados. Tenho interesse em dados econômicos ligados a desenvolvimento e orçamento público.</p>
+<p align="left">Programador iniciante em Python e em R, com foco em análise de dados. Tenho interesse em dados econômicos ligados a desenvolvimento e orçamento público. Atualmente trabalho como Auxiliar de Pesquisa no Instituto de Pesquisa Econômica Aplicada (IPEA). </p>
 
 ###
 
