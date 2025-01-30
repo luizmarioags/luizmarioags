@@ -84,6 +84,10 @@
   <img src="https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white"/>
   <img src="https://img.shields.io/badge/HBO-4F0599?style=for-the-badge&logo=HBO&logoColor=white"/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MUBI&color=005AF0&logo=MUBI&logoColor=FFFFFF&label="/>
+    </a>
+  <a href="https://www.discogs.com/pt_BR/user/luiz_marioags/collection" target="_blank">
+<img src="https://img.shields.io/badge/-Discogs-333333?style=flat&logo=discogs&logoColor=white"/>
+  </a>
 </div>
 
 # Estatísticas
